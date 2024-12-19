@@ -232,9 +232,9 @@ PlayEffect Yellow
 MinimapIcon 1 Yellow Circle
 SetFontSize 45
 
-# Specific Emerald Ring for Chance
+# Specific Accessories for Chance
 Show
-BaseType == "Emerald Ring"
+BaseType "Emerald Ring" "Gold Amulet" "Topaz Ring" "Azure Amulet"
 Rarity Normal Unique
 SetBorderColor 255 0 0
 SetBackgroundColor 255 255 255
